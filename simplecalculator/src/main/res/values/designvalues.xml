@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btnmargin">3dp</dimen>
+    <dimen name="btninset">0dp</dimen>
+    <dimen name="btntextsize">30sp</dimen>
+    <dimen name="tvtextsize">40sp</dimen>
+    <dimen name="btnsmalltextsize">20sp</dimen>
+    <dimen name="tvsmalltextsize">20dp</dimen>
+    <color name="digitbtncolor">#AAAAAA</color>
+    <color name="btnnotdigitcolor">#646464</color>
+</resources>
